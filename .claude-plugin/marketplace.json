@@ -2,6 +2,6 @@
   "name": "solo-agents",
   "owner": {"name": "ORBWEVA"},
   "plugins": [
-    {"name":"agents","source":".","description":"AI agent design and automation skill for solopreneurs. Use when user needs to audit workflows for automation, design AI agents, or build automation recipes using n8n + Claude API. Triggers on \"ai age","version":"1.0.0","author":{"name":"ORBWEVA"},"repository":"https://github.com/ORBWEVA/solo-agents"}
+    {"name":"agents","source":{"source":"github","repo":"ORBWEVA/solo-agents"},"description":"AI agent design and automation skill for solopreneurs. Use when user needs to audit workflows for automation, design AI agents, or build automation recipes using n8n + Claude API. Triggers on \"ai age","version":"1.0.0","author":{"name":"ORBWEVA"}}
   ]
 }
