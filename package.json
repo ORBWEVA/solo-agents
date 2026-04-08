@@ -1,10 +1,17 @@
 {
   "name": "@orbweva/solo-agents",
   "version": "1.0.0",
-  "description": "AI agent design and automation recipes for solopreneurs — n8n + Claude API",
-  "keywords": ["claude-code", "skills", "ai-agents", "automation", "n8n", "solopreneur"],
+  "description": "AI agent design and automation recipes for solopreneurs \u2014 n8n + Claude API",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "ai-agents",
+    "automation",
+    "n8n",
+    "solopreneur"
+  ],
   "author": "ORBWEVA",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ORBWEVA/solo-agents"
